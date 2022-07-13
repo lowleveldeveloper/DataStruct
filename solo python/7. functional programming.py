@@ -44,7 +44,7 @@ def add_five(x):
     return x+5
 
 nums = [11,22,33,44,55]
-result=list(map(add_five,nums))    #함수에 리스트갑대입 반복 ***
+result=list(map(add_five,nums))    #함수에 리스트값 대입 반복 ***
 print(result)
 
 
