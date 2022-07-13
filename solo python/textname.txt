@@ -1,0 +1,2 @@
+hello world
+the next part of the program finds what percentage of the text each character of the alphabet occupies.
